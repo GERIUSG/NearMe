@@ -26,6 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+imagemap.html
+
 <html>
     <body>
         <h1 align="center ">
@@ -51,6 +53,8 @@ Execute the programs and publish them.
             </center>
         </h3>
 </html>
+
+bus stand.html
 
 <html>
 <body bgcolor="cyan">
@@ -98,6 +102,8 @@ Execute the programs and publish them.
 </body>
 </html>
 
+ES hospital.html
+
 <html>
 <body bgcolor="aqua">
     <h1 align="center">
@@ -136,6 +142,8 @@ Execute the programs and publish them.
 </body>
 
 </html>
+
+jewellers.html
 
 <html>
 <body bgcolor="white">
@@ -185,6 +193,8 @@ Execute the programs and publish them.
 
 </html>
 
+plaza.html
+
 <html>
 <body bgcolor="cyan">
     <h1 align="center">
@@ -231,7 +241,7 @@ Execute the programs and publish them.
 
 </html>
 
-</html>
+junction.html
 
 <html>
 <body bgcolor="teal">
