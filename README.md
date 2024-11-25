@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 22/11/2024
+## Date: 25/11/2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -41,14 +41,14 @@ imagemap.html
         <hr>
         <h3>
             <center>
-                <img src="vilupurammap.png" usemap="#image-map" width="800" height="600">
+                <img src="1.png" usemap="#image-map" width="800" height="600">
 
 <map name="image-map">
-    <area target="" alt="ES hospital" title="ES hospital" href="es.html" coords="309,318,421,376" shape="rect">
-    <area target="" alt="villupuram bus stand" title="villupuram bus stand" href="busstand.html" coords="276,553,392,590" shape="rect">
-    <area target="" alt="grt jewellers" title="grt jewellers" href="jewellers.html" coords="449,189,552,223" shape="rect">
-    <area target="" alt="mahalakshmi plaza" title="mahalakshmi plaza" href="plaza.html" coords="708,157,868,198" shape="rect">
-    <area target="" alt="villupuram junction" title="villupuram junction" href="junction.html" coords="902,127,1045,162" shape="rect">
+    <area target="" alt="bus stand" title="bus stand" href="bus stand.html" coords="171,556,303,615" shape="rect">
+    <area target="" alt="jewellers" title="jewellers" href="jewellers.html" coords="400,106,488,178" shape="rect">
+    <area target="" alt="junction" title="junction" href="junction.html" coords="974,14,1035,139" shape="rect">
+    <area target="" alt="es hospital" title="es hospital" href="ES hospital.html" coords="253,282,358,344" shape="rect">
+    <area target="" alt="plaza" title="plaza" href="plaza.html" coords="702,67,812,131" shape="rect">
 </map>
             </center>
         </h3>
@@ -69,7 +69,7 @@ bus stand.html
     <hr>
     <h3>
         <center> 
-        <img src="busstand.png" >
+        <img src="2.png" >
         </center>
         <br>
         <hr>
@@ -117,7 +117,7 @@ ES hospital.html
     <hr>
     <h3>
         <center> 
-        <img src="eshopital.png" >
+        <img src="3.png" >
         </center>
         <br>
         <hr>
@@ -158,7 +158,7 @@ jewellers.html
     <hr>
     <ul>
         <center> 
-        <img src="grt.png" >
+        <img src="4.png" >
         </center>
         <br>
         <hr>
@@ -193,6 +193,50 @@ jewellers.html
 
 </html>
 
+junction.html
+
+<html>
+<body bgcolor="teal">
+    <h1 align="center">
+        <font color="red">
+          Villupuram
+        </font>
+    </h1>
+    <h2 align="center">
+        Villupuram junction
+    </h2>
+    <hr>
+    <h3>
+        <center> 
+        <img src="6.png" >
+        </center>
+        <br>
+        <hr>
+        <li>
+            <font size="5">
+               Villupuram junction located in Villupuram, a town in Villupuram district in Tamil Nadu, INDIA. 
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                Villupuram railway station covers about 20 acres of a vast area, six platforms – Platforms 1 to 3 occupy a length of 600 metres (2,000 ft) and platforms 4 to 6 occupy a length of 550 metres each and few goods/freight train lines which occupies 650 metres (2,130 ft) each and there are few shunting lines.
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                Railway lines can be crossed with the help of a mass structured over bridge. The railway station is located off the East Pondy Road in the Keelperumpakkam neighborhood
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                The Villupuram Old Bus Stand (Town bus stand) is situated at 2 km (1.2 mi) and New bus stand (Central bus stand) is situated at 4 km 
+            </font>
+        </li>
+    </h3>
+</body>
+
 plaza.html
 
 <html>
@@ -208,7 +252,7 @@ plaza.html
     <hr>
     <h3>
         <center> 
-        <img src="plaza.png" >
+        <img src="5.png" >
         </center>
         <br>
         <hr>
@@ -241,60 +285,15 @@ plaza.html
 
 </html>
 
-junction.html
-
-<html>
-<body bgcolor="teal">
-    <h1 align="center">
-        <font color="red">
-          Villupuram
-        </font>
-    </h1>
-    <h2 align="center">
-        Villupuram junction
-    </h2>
-    <hr>
-    <h3>
-        <center> 
-        <img src="junction.png" >
-        </center>
-        <br>
-        <hr>
-        <li>
-            <font size="5">
-               Villupuram junction located in Villupuram, a town in Villupuram district in Tamil Nadu, INDIA. 
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                Villupuram railway station covers about 20 acres of a vast area, six platforms – Platforms 1 to 3 occupy a length of 600 metres (2,000 ft) and platforms 4 to 6 occupy a length of 550 metres each and few goods/freight train lines which occupies 650 metres (2,130 ft) each and there are few shunting lines.
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                Railway lines can be crossed with the help of a mass structured over bridge. The railway station is located off the East Pondy Road in the Keelperumpakkam neighborhood
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                The Villupuram Old Bus Stand (Town bus stand) is situated at 2 km (1.2 mi) and New bus stand (Central bus stand) is situated at 4 km 
-            </font>
-        </li>
-    </h3>
-</body>
-
 ```
 
 ## OUTPUT
-
-![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
-![alt text](6.png)
+![alt text](<Screenshot (43).png>)
+![alt text](<Screenshot (46).png>)
+![alt text](<Screenshot (50).png>)
+![alt text](<Screenshot (44).png>)
+![alt text](<Screenshot (48).png>)
+![alt text](<Screenshot (49).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
